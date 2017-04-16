@@ -1,6 +1,6 @@
 # list_loader
 Downloads the files contained in a list of URL's using wget. Mostly for personal use and coding exercise ;-)
-
+Requires Python 3.
 How to?
 --------
 1. Run list_loader.py
